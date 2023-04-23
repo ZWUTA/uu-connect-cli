@@ -1,0 +1,10 @@
+{
+    "core-type":"zju",
+    "core":"./core/zju-connect.exe",
+    "username":"YourAccount",
+    "password":"YourPassword",
+    "server":"webvpn.zwu.edu.cn",
+    "port":"443",
+    "socks-bind":"0.0.0.0:1080",
+    "KeepAlive":true
+}
